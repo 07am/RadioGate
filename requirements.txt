@@ -1,0 +1,3 @@
+selenium==4.1.0
+python-guerrillamail==0.2.0
+
